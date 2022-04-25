@@ -1,0 +1,2 @@
+# linters-configurations
+linters setup
